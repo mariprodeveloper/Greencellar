@@ -1,0 +1,177 @@
+[
+  {
+    "https://i.ibb.co/YBjqhTrj/basil.jpg",
+    "description": "Fresh basil, hand-picked on a small European farm where plants grow slowly and naturally, without chemicals — 50 g",
+    "price": 11.99
+  },
+  {
+    "image": "https://i.ibb.co/DPkG8ZHv/beef-loin.jpg",
+    "description": "Bone-in beef loin from cattle raised with care and free-range practices on a small European farm — 500 g",
+    "price": 99.49
+  },
+  {
+    "image": "https://i.ibb.co/TDQTz4D2/broccoli.jpg",
+    "description": "Broccoli grown in harmony with nature on a family farm, without growth enhancers and with care no factory can replicate — 500 g",
+    "price": 25.00
+  }
+  {
+    "image": "https://i.ibb.co/XrCwRnKK/carrot.jpg",
+    "description": "Carrots hand-grown on a small farm, where each root develops its natural sweetness slowly, without fertilizers or chemicals — 500 g",
+    "price": 11.00
+  }
+  {
+    "image": "https://i.ibb.co/ycvFdPrM/cauliflower.jpg",
+    "description": "Cauliflower grown naturally on a family farm, without growth enhancers or pesticides, with close attention to each head — 500 g",
+    "price": 23.00
+  }
+  {
+    "image": "https://i.ibb.co/7x79DbMC/celery.jpg",
+    "description": "Celery grown in open soil on a small farm, free from chemicals and focused on pure, natural flavor — 500 g",
+    "price": 15.00
+  }
+  {
+    "image": "https://i.ibb.co/Y7vHLdsJ/chicken-breast-fillet.jpg",
+    "description": "Breast fillet from free-range farm chicken, raised on natural feed without antibiotics, sourced from a small-scale family farm — 500 g",
+    "price": 35.00
+  }
+  {
+    "image": "https://i.ibb.co/K3jmW0Q/cheese-made-from-sheep-s-milk.png",
+    "description": "Sheep’s milk cheese handcrafted on a small farm where animals roam freely and each piece reflects patience and care — 250 g",
+    "price": 105.00
+  }
+  {
+    "image": "https://i.ibb.co/3yVXw9Sj/cheese-with-truffle.jpg",
+    "description": "Truffle cheese handcrafted on a European farm, made with real truffle and aged to reveal its delicate aroma and rich flavor — 250 g",
+    "price": 115.00
+  }
+  {
+    "image": "https://i.ibb.co/q3vysHW0/chicken-egg.jpg",
+    "description": "Farm-fresh eggs from free-range hens raised on natural feed with care at every stage — 10 pcs",
+    "price": 15.00
+  }
+  {
+    "image": "https://i.ibb.co/hxL6YgxB/cottage-cheese.jpg",
+    "description": "Natural cottage cheese handcrafted from fresh milk on a family farm, preservative-free and full of wholesome goodness — 250 g",
+    "price": 15.00
+  }
+  {
+    "image": "https://i.ibb.co/cKn4chb9/dill.jpg",
+    "description": "Fresh dill grown in open soil on a small farm, hand-picked on harvest day and free from chemicals — 50 g",
+    "price": 6.00
+  }
+  {
+    "image": "https://i.ibb.co/xqGXjYDk/ghee.jpg",
+    "description": "Ghee butter slowly clarified by hand from fresh cream on a small farm, free from additives and rich in authentic flavor — 300 g",
+    "price": 20.00
+  }
+  {
+    "image": "https://i.ibb.co/gZ8HgsgP/goat-cheese.jpg",
+    "description": "Homemade cheese handcrafted on a farm from fresh milk, preservative-free, with a delicate flavor and living texture — 250 g",
+    "price": 25.00
+  }
+  {
+    "image": "https://i.ibb.co/4gRwJkwD/green-onion.jpg",
+    "description": "Green onions grown without pesticides on a small farm, hand-harvested at peak freshness — 100 g",
+    "price": 5.00
+  }
+  {
+    "image": "https://i.ibb.co/SDL3XDhT/halloumi-cheese.jpg",
+    "description": "Halloumi cheese handcrafted on a small farm using a traditional recipe and fresh milk, perfect for frying and grilling — 250 g",
+    "price": 19.00
+  }
+  {
+    "image": "https://i.ibb.co/215Vf7Cc/homemade-butter.jpg",
+    "description": "Butter churned by hand from fresh farm cream, free from additives, with a pure taste and creamy texture — 200 g",
+    "price": 11.00
+  }
+  {
+    "image": "https://i.ibb.co/fzSLV9Bd/homemade-milk.jpg",
+    "description": "Freshly milked, non-pasteurized milk from free-range cows, untouched and true to its natural taste — 1 L",
+    "price": 7.00
+  }
+  {
+    "image": "https://i.ibb.co/gM7Pd2L2/lamb-ribs.jpg",
+    "description": "Lamb ribs from a small farm, sourced from free-range animals, rich in flavor and perfect for slow roasting — 500 g",
+    "price": 35.00
+  }
+  {
+    "image": "https://i.ibb.co/YF2DPw0V/lean-beef.jpg",
+    "description": "Lean beef from free-range cattle raised without hormones or antibiotics, offering a pure and rich meat flavor — 500 g",
+    "price": 55.00
+  }
+  {
+    "image": "https://i.ibb.co/ymFq616f/lean-ground-beef.png",
+    "description": "Ground beef made from selected cuts of free-range cattle on a small farm, with no additives or flavor enhancers — 500 g",
+    "price": 45.00
+  }
+  {
+    "image": "https://i.ibb.co/qFD1B2KP/leek.jpg",
+    "description": "Leek grown in open soil without chemicals, hand-harvested on a small farm and known for its mild, refined flavor — 300 g",
+    "price": 9.00
+  }
+  {
+    "image": "https://i.ibb.co/qFjNK1D4/lettuce.jpg",
+    "description": "Lettuce leaves grown under natural shade on a small farm without fertilizers or pesticides, hand-picked fresh on delivery day — 200 g",
+    "price": 7.00
+  }
+  {
+    "image": "https://i.ibb.co/Fk1L6BVL/microgreens.jpg",
+    "description": "Microgreens grown by hand in controlled, chemical-free conditions, packed with intense flavor and nutrients — 50 g",
+    "price": 8.00
+  }
+  {
+    "image": "https://i.ibb.co/ymNYqb2q/mint.jpg",
+    "description": "Fresh mint grown in natural shade on a small farm without fertilizers, hand-picked for a rich and vibrant aroma — 50 g",
+    "price": 6.00
+  }
+  {
+    "image": "https://i.ibb.co/M5Krd5Qq/parsley.jpg",
+    "description": "Parsley grown without pesticides on a small farm, hand-picked on delivery day for fresh and vibrant flavor — 50 g",
+    "price": 5.00
+  }
+  {
+    "image": "https://i.ibb.co/PZDbJG0d/potato.jpg",
+    "description": "Potatoes grown in natural soil without chemicals or machinery, hand-harvested on a small farm — 1 kg",
+    "price": 8.00
+  }
+  {
+    "image": "https://i.ibb.co/pB8dJnD4/quail-egg.jpg",
+    "description": "Quail eggs from birds raised freely on a small farm with natural feed and no growth enhancers — 12 pcs",
+    "price": 15.00
+  }
+  {
+    "image": "https://i.ibb.co/S4q1BXGv/sour-cream-15.jpg",
+    "description": "Sour cream 15% fat, handcrafted from fresh farm cream without stabilizers or pasteurization — 250 g",
+    "price": 11.00
+  }
+  {
+    "image": "https://i.ibb.co/LXBM8tbK/sour-cream-20.jpg",
+    "description": "Sour cream 20% fat, made on a farm from fresh cream without additives or industrial processing — 250 g",
+    "price": 13.00
+  }
+  {
+    "image": "https://i.ibb.co/XxjNH9MN/spinach.jpg",
+    "description": "Fresh spinach grown without fertilizers and hand-picked on harvest day from a small farm — 100 g",
+    "price": 6.00
+  }
+  {
+    "image": "https://i.ibb.co/Ngdznx5r/strachetella.jpg",
+    "description": "Stracciatella cheese handcrafted from fresh cream and stretched mozzarella on a small farm — delicate, creamy, and natural — 200 g",
+    "price": 17.00
+  }
+  {
+    "image": "https://i.ibb.co/gbNyJ4pN/the-carcass-of-a-domestic-chicken.jpg",
+    "description": "Whole free-range chicken raised on natural feed without antibiotics, with firm meat and rich flavor ~ 1.8 kg",
+    "price": 45.00
+  }
+  {
+    "image": "https://i.ibb.co/8L8T743B/turkey-fillet.jpg",
+    "description": "Turkey fillet from free-range birds raised without hormones or antibiotics on a small farm — 500 g",
+    "price": 27.00
+  }
+  {
+    "image": "https://i.ibb.co/Y4XCcR02/turkey-leg.jpg",
+    "description": "Turkey leg from birds raised naturally with slow feeding, offering firm meat and rich flavor — 700 g",
+    "price": 23.00
+  }
+]
